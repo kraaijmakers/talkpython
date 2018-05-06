@@ -15,10 +15,6 @@ def main():
 
     print('The temperature in {} is {} {} and {}'.format(report.loc, report.temp, report.scale, report.cond))
 
-    # parse the html
-    # display for the forecast
-    print('Hello from main!')
-
 
 def print_header():
     print('-------------------------')
